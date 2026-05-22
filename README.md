@@ -1,4 +1,4 @@
-# Tech Debt Radar — NTT DATA Guidewire Practice
+# Tech Debt Radar — Guidewire Practice
 
 Continuous AI-powered code intelligence for Guidewire — identify, score and remediate technical debt weekly.
 
